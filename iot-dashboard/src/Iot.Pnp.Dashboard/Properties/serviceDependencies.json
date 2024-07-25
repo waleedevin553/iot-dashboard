@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "signalr1": {
+      "type": "signalr",
+      "connectionId": "Azure:SignalR:ConnectionString"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "Azure:CheckpointStorageAccount:ConnectionString"
+    }
+  }
+}
